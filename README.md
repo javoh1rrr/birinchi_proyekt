@@ -1,2 +1,2 @@
 # birinchi_proyekt
-birinchi
+birinchi1
