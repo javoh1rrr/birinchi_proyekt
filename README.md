@@ -1,0 +1,2 @@
+# birinchi_proyekt
+birinchi
