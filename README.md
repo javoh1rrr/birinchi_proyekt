@@ -1,2 +1,3 @@
 # birinchi_proyekt
-birinchi1
+birinchi1 3232343
+
